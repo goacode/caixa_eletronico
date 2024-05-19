@@ -5,4 +5,4 @@ Software para caixa eletronico desenvolvido durante o bootcamp Python AI Backend
 Certifique-se de ter o <a href="https://www.python.org/">Python</a> instalado em sua maquina.
 
 <h2>Utilização</h2>
-Para utilizar este reposito basta clona-lo e executar o arquivo caixa_eletronico.py
+Para utilizar este repositorio basta clona-lo e executar o arquivo caixa_eletronico.py
